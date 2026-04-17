@@ -1,0 +1,45 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+CTestTestfile.cmake
+
+# Compiled output
+*.exe
+*.dll
+*.lib
+*.a
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docinfo
+*.vcxproj.user
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# GoogleTest (fetched at build time, not committed)
+_deps/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
