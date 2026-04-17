@@ -31,4 +31,4 @@ ctest --output-on-failure
 
 ## License
 
-MIT No AI License
+MIT
